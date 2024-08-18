@@ -11,21 +11,21 @@ Here we have project screenshot :
 
 
 Front Page:
-![screenshot](withyou.png)
+![screenshot](softy.png)
 
 
 Login :
-![screenshot](withyoulog.png)
+![screenshot](softylog.png)
 
 Registration :
-![screenshot](withyoureg.png)
+![screenshot](softyreg.png)
 
 Login :
-![screenshot](withyoulog1.png)
+![screenshot](softylog1.png)
 
 
 Registration :
-![screenshot](withoyoureg1.png)
+![screenshot](softyreg1.png)
 
 
 
